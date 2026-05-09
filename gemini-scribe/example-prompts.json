@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "search",
+    "text": "Find all notes discussing memory management and atomic operations in the Cuda_1 and Opencl folders"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Create a summary of the different matrix multiplication implementations found in the Cuda_2 folder"
+  },
+  {
+    "icon": "globe",
+    "text": "Research modern GPU architectures like NVIDIA Blackwell and compare them to the notes in the Mod_1 new folder"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organize the MPI_new folder by grouping notes into basic setup, point-to-point communication, and collective operations"
+  }
+]
